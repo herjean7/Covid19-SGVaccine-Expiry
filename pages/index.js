@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="SG Covid Vaccine Expiry Checker" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Date of last primary series dose : 
         </p>
       </main>
 
